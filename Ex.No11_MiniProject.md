@@ -10,6 +10,7 @@ To write a python program to simulate the game using AI Techniques
 4. Collision Detection: Check for collisions between bullets and enemies, updating the score.
 5. Game Loop: Continuously update and draw all elements, handling game over and restarting.
 ### Program:
+```
 import pygame
 import random
 
@@ -228,6 +229,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
 ### Output:
 
 ![Screenshot 2024-10-18 142028](https://github.com/user-attachments/assets/f91ae8f7-15da-4000-b62a-a8ac0ac9e642)
