@@ -1,7 +1,7 @@
 # Ex.No: 7 Implementation of Decision Tree Learning
 
 **DATE: 20-09-2024** <br>
-**NAME : M Sanjay**br>
+**NAME : M Sanjay**<br>
 **REGISTER NUMBER : 212222240090**
 
 ### Aim:
